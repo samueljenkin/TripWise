@@ -15,19 +15,19 @@ To ensure a well-structured development process, I followed these steps:
 
 1. Created user stories, capturing the desired features and functionalities of a holiday planning app from a user's perspective. You can refer to the image below:
 
-![User stories](images/user_stories.png)
+![User stories](readme_images/user_stories.png)
 
 2. Developed a user flow chart to map out the app's workflow and the general process users would go through when using it. Please see the image below:
 
-![User flow](images/user_flow.png)
+![User flow](readme_images/user_flow.png)
 
 3. Designed initial website layouts through sketches to establish the app's visual structure. Here's an example:
 
-![Wireframing](images/wireframe.png)
+![Wireframing](readme_images/wireframe.png)
 
 4. Created a comprehensive to-do list, outlining the tasks and objectives that needed to be accomplished. The image below provides an overview:
 
-![To do list](images/to_do_list.png)
+![To do list](readme_images/to_do_list.png)
 
 ## :rocket: Cool tech
 TripWise incorporates the following technologies:
@@ -37,7 +37,7 @@ TripWise incorporates the following technologies:
 - Material UI (MUI)
 - Fontjoy & Coolors (colour scheme below)
 
-![Colour Scheme](images/colour_scheme.png)
+![Colour Scheme](readme_images/colour_scheme.png)
 
 ## :scream: Bugs to fix :poop:
 Please be aware of the following bugs that are currently being addressed:
