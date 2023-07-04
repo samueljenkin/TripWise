@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && rm -rf ../app-api/build && cp -r ./build ../app-api",
+    "build": "react-scripts build && rm -rf ../db/build && cp -r ./build ../db && rm -rf ../../TripWise-render/build && cp -r ./build ../../TripWise-render",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
