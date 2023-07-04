@@ -1,0 +1,8 @@
+bcrypt
+cors
+dotenv
+express-session
+express
+node-fetch
+nodemon
+pg
