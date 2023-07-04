@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Fonts */
+* {
+  font-family: 'Overpass', sans-serif;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Expletus Sans', cursive;
+}
