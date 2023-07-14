@@ -1,7 +1,7 @@
 # TripWise
 Welcome to TripWise, an innovative project that enables users to conveniently log in or sign up and discover attractions based on their desired location, time, and budget. With TripWise, users can effortlessly view and organise their saved trips and activities, ensuring a memorable holiday experience. If you're seeking a budget-friendly getaway packed with exciting activities, TripWise is the perfect app for you.
 
-## :computer: [Click here](https://holiday-app.onrender.com/) to see my live project!
+## :computer: [Click here](https://tripwise-app.onrender.com/) to see my live project!
 
 ## :page_facing_up: About
 To get started with TripWise, follow these steps:
